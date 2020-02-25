@@ -1,0 +1,2 @@
+# onekey
+An encyclopedia software
